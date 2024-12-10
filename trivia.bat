@@ -8,7 +8,7 @@ rem Base de preguntes (cada participant n'afegirà més)
 set "q1=¿Cuál es el lenguaje de programación más utilizado en IA?"
 set "a1=Python"
 
-set "q2=Quin any es va crear Git?"
+set "q2=¿En qué año se creó Git?"
 set "a2=2005"
 
 rem Variables inicials
