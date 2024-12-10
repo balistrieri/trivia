@@ -5,7 +5,7 @@ title Trivia col·laborativa
 setlocal enabledelayedexpansion
 
 rem Base de preguntes (cada participant n'afegirà més)
-set "q1=Quin és el llenguatge de programació més utilitzat per IA?"
+set "q1=¿Cuál es el lenguaje de programación más utilizado en IA?"
 set "a1=Python"
 
 set "q2=Quin any es va crear Git?"
