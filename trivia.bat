@@ -11,6 +11,9 @@ set "a1=Python"
 set "q2=¿En qué año se creó Git?"
 set "a2=2005"
 
+set "q3=¿En qué año se creó Github?"
+set "a3=2015"
+
 rem Variables inicials
 set /a score=0
 set /a totalQuestions=2
