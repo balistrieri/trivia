@@ -11,8 +11,13 @@ set "a1=Python"
 set "q2=¿En qué año se creó Git?"
 set "a2=2005"
 
+<<<<<<< HEAD
 set "q3=¿En qué año se creó Github?"
 set "a3=2015"
+=======
+set "q3=¿En que año fue 1+1?"
+set "a3=La respuesta es el fantástico Ralph"
+>>>>>>> feature/PiliLlerena
 
 rem Variables inicials
 set /a score=0
