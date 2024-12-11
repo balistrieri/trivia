@@ -14,6 +14,9 @@ set "a2=2005"
 set "q3=¿En que año fue 1+1?"
 set "a3=La respuesta es el fantástico Ralph"
 
+set "q4=¿En qué año se creó Github?"
+set "a4=2015"
+
 rem Variables inicials
 set /a score=0
 set /a totalQuestions=2
